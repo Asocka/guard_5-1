@@ -1,4 +1,4 @@
-# ![logo](linepy/LINE.png) LINE Messenger Group Guard ( 5Bot &amp; 1Bot )
+# ![logo](GG_Star/LINE.png) LINE Messenger Group Guard ( 5Bot &amp; 1Bot )
 
 <p align="center">
   
@@ -31,7 +31,7 @@ _________________________________
 
 # اطلاعات تماس
 
-![Soheil](/logo.png)
+![Soheil](GG_Star/logo.png)
 
 My Websites : [3oheil](https://3oheil.com)  ,  [W O O D A](httpS://www.wooda.ir)
 
