@@ -1,0 +1,19 @@
+{
+    "addadmin": false,
+    "addban": false,
+    "addbots": false,
+    "addowner": false,
+    "addstaff": false,
+    "autoJoin": true,
+    "delladmin": false,
+    "dellban": false,
+    "dellbots": false,
+    "dellowner": false,
+    "dellstaff": false,
+    "restartPoint": "c3197befd090aa5e4294b3fd585241391",
+    "sentinelPict": {},
+    "setKey": {
+        "key": "vyna ",
+        "status": false
+    }
+}
